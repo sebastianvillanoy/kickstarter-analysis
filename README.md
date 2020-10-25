@@ -19,7 +19,7 @@ This information will help Louise set up her own campaign for success since she 
 Of the 1393 crowdfunding campaigns for theaters, plays are the most popular with a total of 1066 campaigns. This accounts for a little over 76% of all theater campaigns in the data. 
 </p>
 <br>
-<img src="Resources/Outcomes_of_Theater_Campaigns.png"></img>
+<img src="Resources/Outcomes_of_Plays_Subcategory.png"></img>
 <br>
 <p>
 Apart from its popularity, plays are also largely successful. The data shows that 65% of the campaigns for plays were successful in meeting their funding goals while only 33% have failed. Meanwhile, only a very small 2% are still live. 
