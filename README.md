@@ -1,29 +1,44 @@
 # Kickstarting with Excel
 
 ## Overview of Project
-<br>
-The study looked at a Kickstarter dataset of 4115 crowdfunding campaigns. It was used to analyze the effect of launch dates and funding goals on the outcomes of plays, a subcategory of theatre crowdfunding campaigns. 
+<p>
+The study looked at a Kickstarter dataset of 4115 crowdfunding campaigns. It was used to analyze the effect of launch dates and funding goals on the outcomes of play campaigns, a subcategory of theater crowdfunding campaigns. 
+</p>
+<p>
+The goal is to find specific factors that influence the outcome of crowdfunding campaigns for plays. 
+This information will help Louise set up her own campaign for success since she is hoping to raise more than $10,000 to fund her play entitled, "Fever."
+</p>
 
-The goal is to find specific factors that make crowdfunding campaigns for plays successful. 
-This information will help Louise set up her own campaign for her play entitled, "Fever" which has an estimated budget of at least $10,000. 
-<br>
 ## Analysis and Challenges
 <br>
-Of the 1393 crowdfunding campaigns for theatre, plays are the most popular with 1066 campaigns. 
 <img src="Resources/Subcategories_of_Theater_Campaigns.png"></img>
 <br>
-The data shows that 65% of the campaigns for plays are successful in meeting their funding goal while only 33% have failed. 
+<p>
+Of the 1393 crowdfunding campaigns for theaters, plays are the most popular with a total of 1066 campaigns. This accounts for a little over 76% of all theater campaigns in the data. 
+</p>
 <br>
 <img src="Resources/Outcomes_of_Theater_Campaigns.png"></img>
 <br>
-<img src="Resources/Outcomes_vs_Goals.png"></img>
+<p>
+Apart from its popularity, plays are also largely successful. The data shows that 65% of the campaigns for plays were successful in meeting their funding goals while only 33% have failed. Meanwhile, only a very small 2% are still live. 
+</p>
 <br>
 <img src="Resources/Theater_Outcomes_vs_Launch.png"></img>
+<br>
+<center>Analysis of Outcomes Based on Launch Dates </center>
+<p>
+ The data illustrates how the percentage of successful theater campaigns have always excceded the percentage of failed theater campaigns in all 12 launch months of the year. This implies that regardless of their launch dates, more theater campaigns were able to meet their funding goals compared to those that were unable to. 
+</p> 
+<p>
+ The amount of successful theater campaigns, however, is not uniform throughout the year. The data shows that May has 111 successful campaigns, the highest number in all the 12 launch months. In the succeeding launch months, the amount of successful theater campaigns gradually trends downwards until it hits its lowest point of 37 successful theater campaigns in Decemeber. One possible explanation is the way people's spending patterns change during the 4th quarter of the year. With more household expenses accompanying the holiday season, potential donors may have less to contriubute to play campaigns that launch during this time. 
+</p>
+<br>
+<img src="Resources/Outcomes_vs_Goals.png"></img>
+<br>
+<p>
+abcdf
+</p>
 
-
-
-
-### Analysis of Outcomes Based on Launch Date
 
 ### Analysis of Outcomes Based on Goals
 
