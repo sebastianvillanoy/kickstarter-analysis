@@ -24,6 +24,13 @@ Of the 1393 crowdfunding campaigns for theaters, plays are the most popular with
 Apart from its popularity, plays are also largely successful. The data shows that 65% of the campaigns for plays were successful in meeting their funding goals while only 33% have failed. Meanwhile, only a very small 2% are still live. 
 </p>
 
+<br>
+<img src="Resources/Play_Summary_Statistics.png"></img>
+<br>
+<p>
+Based on the summary statistics above, successful campaigns for the plays subcategory have a mean goal of $4,101 that is only slightly exceeded by a mean pledge of $4,536. On the other hand, failed campaigns for the plays subcategory have a mean goal of $9,827 and a very low mean pledge of $527.
+</p>
+
 ### Analysis of the Theater Outcomes Based on Launch Date
 <br>
 <img src="Resources/Theater_Outcomes_vs_Launch.png"></img>
@@ -40,11 +47,9 @@ Apart from its popularity, plays are also largely successful. The data shows tha
 <img src="Resources/Outcomes_vs_Goals.png"></img>
 <br>
 <p>
-The percentage of successfully funded campaigns tends to decrease as funding goals increase. The data shows that this is true for funding goals up to the range of 25000-29999. In the case of Louise whose campaign goal falls within the 10000-99999 range, she can expect about 54% of crowdfunding campaigns like hers to to be successful.
+The percentage of successfully funded campaigns tends to decrease as funding goals increase. The data shows that this is true for funding goals up to the range of 25000-29999. In the case of Louise whose funding goal falls within the 10000-99999 range, she can expect about 54% of crowdfunding campaigns like hers to to be successful. 
 </p>
-<br>
-<img src="Resources/Play_Summary_Statistics.png"></img>
-<br>
+
 
 ### Challenges and Difficulties Encountered
 <p>
@@ -57,18 +62,18 @@ Another challenge was making sure that the months instead of individual dates we
 
 ### Conclusions from Outcomes based on Launch Date
 <p>
-1) Theatre campaigns launched in May have the most number of success. Louise should consider launching her play campaign during this month especially since plays comprise more than a quarter of theater campaigns. 
+1) Theatre campaigns launched in May have the most number of success. Louise should consider launching her play campaign during this month especially since the plays subcategory comprises more than a quarter of theater campaigns. 
 </p>
 <p>
 2) Lousie should avoid launching her play campaign in the fourth quarter of the year. This period contains both the lowest number of successful theater campaigns (37 campaigns in December) and one of the highest number of unsuccessful theater campaigns (50 campaigns in October).
 </p>
 
-### Conclusions from the Outcomes based on Goals?
+### Conclusions from the Outcomes based on Goals
 <p>
-1) Success rates fall with the rise in funding goals of a campaign. Therefore, play campaigns with very high funding goals are generally unsuccesful in meeting them. Louise might want to reconsider her $10,000 goal since only around half of the campaigns of the same catgeory and funding goal as her are able to successfully meet their funding goals. 
+1) Successful percentages of play campaigns fall with the rise in funding goals. Therefore, play campaigns that start with very high funding goals are usually unsuccessful in meeting them. Louise might want to reconsider her $10,000 goal since only around half of the campaigns of the same category and funding goal as her are successful. In addition, the summary statistics reveal that Louise's $10,000 goal is much closer to the mean goal of failed play campaigns ($9,827) than it is to the mean goal of succesful play campaigns ($4,101). Before starting her campaign, Louise should be aware that the mean pledge for successful play campaigns is $4,536.
 </p>
 
-### Limitations of this dataset
+### Limitations of the Dataset
 <p>
 The data set does not provide insight into the reasons why certain campaigns are cancelled. These reasons can vary and can affect our classificaton of success and failure. Perhaps the owner of campaign found alternative sources funding for his or her project. In this case, there was no need to continue with the kickstarter since the financial goals were met. However, this does not necessarily mean that a campaign was unsuccessful. 
 </p>
@@ -77,7 +82,7 @@ The data set does not provide insight into the reasons why certain campaigns are
 Another reason could be that some owners cancel their campaigns after being discourgaed by the slow rate of contributions from supporters. By prematurely cancelling a campaign before its deadline, we may understate the true failure rate of campaigns belonging to that category and level of funding goals. 
 </p>
 
-### Other possible tables and/or graphs to create
+### Recommendations for other possible tables and/or graphs
 <p>
 It is recommended to create the same graphs such as "Outcomes based on Goal" and "Theater Outcomes Based on Launch Date" but with the country filter set to the Louise's specific country. This will help narrow down the outcomes of simmilar campaigns to Louise's geographical region as potential donors from different parts of the world have varying preferences and economic situtions. 
 </p>
