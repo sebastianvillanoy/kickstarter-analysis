@@ -42,6 +42,9 @@ Apart from its popularity, plays are also largely successful. The data shows tha
 <p>
 The percentage of successfully funded campaigns tends to decrease as funding goals increase. The data shows that this is true for funding goals up to the range of 25000-29999. In the case of Louise whose campaign goal falls within the 10000-99999 range, she can expect about 54% of crowdfunding campaigns like hers to to be successful.
 </p>
+<br>
+<img src="Resources/Play_Summary_Statistics.png"></img>
+<br>
 
 ### Challenges and Difficulties Encountered
 <p>
